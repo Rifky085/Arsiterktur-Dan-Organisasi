@@ -38,5 +38,8 @@ Perangkat Output: Monitor dengan resolusi tinggi, printer 3D, dan perangkat outp
 IoT (Internet of Things):
 
 IoT: Dengan kemajuan IoT, perangkat sehari-hari seperti ponsel, jam tangan pintar, dan perangkat rumah pintar kini terhubung dan berkomunikasi secara otomatis, meningkatkan cara kita mengelola dan merespons data.
+
+
+
 Kesimpulan
 Sejarah input dan output adalah perjalanan evolusi dari metode mekanis dan elektronik awal menuju solusi digital dan terhubung secara global. Kemajuan dalam perangkat keras dan perangkat lunak terus mengubah cara kita berinteraksi dengan teknologi, memungkinkan berbagai aplikasi dan penggunaan yang lebih canggih.
